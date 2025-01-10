@@ -10,7 +10,7 @@ The application is built with Node.js, TypeScript, and PostgreSQL, and uses `inq
 ## Table of Contents
 
 - [Features](#Features)
-- [Technologies Used](#Technologies)
+- [Technologies Used](#Technologies Used)
 - [Credits](#credits)
 - [License](#license)
 - [Image](#Image)
