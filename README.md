@@ -13,7 +13,7 @@ The application is built with Node.js, TypeScript, and PostgreSQL, and uses `inq
 - [Technologies_Used](#Technologies_Used)
 - [Credits](#credits)
 - [License](#license)
-- [Image](#Image)
+- [Walkthrough_video](#Walkthrough_video)
 
 ## Features
 
@@ -38,3 +38,7 @@ N/A
 ## License
 
 MIT
+
+## Walkthrough_video
+
+https://drive.google.com/file/d/1XPb0I6DWjjCRS8J7c5pSjrWd0LkjuT-U/view?usp=sharing
